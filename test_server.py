@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
     if args.health:
         is_endpoint_alive(args.health)
-    elif args.test:
+    elif args.customtest:
         run_custom_tests()
     elif args.image:
         send_image(args.image)
