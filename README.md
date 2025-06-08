@@ -2,26 +2,6 @@
 
 A computer vision pipeline deployed on Cerebrium’s serverless AI infrastructure.
 
-## 🚀 Overview
-
-**cv\_on\_cerebrium** showcases how to build, train, and deploy machine learning models—especially in computer vision—using Cerebrium’s platform. This repo provides tools and examples to:
-
-* Train and evaluate CV models locally or on Cerebrium
-* Package models into scalable serverless endpoints
-* Run inference via RESTful API or WebSocket
-
----
-
-## Features
-
-* **Training**: Supports custom image datasets (classification, detection, segmentation).
-* **Evaluation**: Metrics like accuracy, precision, recall, mAP.
-* **Deployment**: One-line deployment with `cerebrium deploy`, auto‐scaling GPU/CPU.
-* **Inference**: Real-time endpoints for REST and WebSocket.
-* **Configurable**: `cerebrium.toml` lets you adjust hardware, replicas, scaling.
-* **Awesome examples**: Integrates best practices from Cerebrium’s example repos.
-
----
 
 ## 🎯 Getting Started
 
