@@ -24,14 +24,15 @@ pip install -r requirements.txt
 python convert_to_onnx.py
 
 # For testing:
-1. Add images to custom_test.py and their corresponding labels as two seperate lists. Then run
+#1. Add images to custom_test.py and their corresponding labels as two seperate lists. Then run
 python test_server.py --customtest
 
-2. Directly just use image:
+#2. Directly just use image:
 python test_server.py --image 'path/to/image'
 
-3. Check if cerebrium's api is working:
+#3. Check if cerebrium's api is working:
 python test_server.py --health 'path/to/image'
+
 ## 🧑‍💻 License
 
 MIT License — see [LICENSE](LICENSE)
