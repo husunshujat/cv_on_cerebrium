@@ -32,6 +32,7 @@ python test_server.py --image 'path/to/image'
 
 #3. Check if cerebrium's api is working:
 python test_server.py --health 'path/to/image'
+```
 
 ## 🧑‍💻 License
 
