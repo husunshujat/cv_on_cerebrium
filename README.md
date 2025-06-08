@@ -1,7 +1,3 @@
-Here’s a polished README template for your **cv\_on\_cerebrium** project:
-
----
-
 # CV on Cerebrium
 
 A computer vision pipeline deployed on Cerebrium’s serverless AI infrastructure.
